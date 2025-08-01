@@ -66,7 +66,7 @@ src/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/YOUR_GITHUB_USERNAME/transactionDemo.git
+    git clone https://github.com/AgeOfUltra/transactionDemo.git
     cd transactionDemo
     ```
 2. Build and run the project:

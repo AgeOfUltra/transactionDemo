@@ -1,5 +1,3 @@
-Certainly! Here’s how your updated `README.md` would look, based on your code and instructions, **without the License section**. This version includes a dedicated note about how Spring determines the transaction manager, as well as a **step-by-step debugging guide to check which transaction manager is picked at runtime**.
-
 # Spring Boot Transactions Demo
 
 This project demonstrates advanced **transaction management** concepts in Spring Boot, including:
